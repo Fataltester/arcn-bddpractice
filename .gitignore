@@ -1,0 +1,10 @@
+/bdd-java/target/
+*.deb
+*.log
+.idea/
+*.iml
+.project
+.classpath
+.DS_Store
+target/
+.settings/
